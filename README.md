@@ -1,1 +1,1 @@
-# meta-coin
+# simple-contract
