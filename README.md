@@ -1,1 +1,1 @@
-# simple-contract
+# simple-vote-application
